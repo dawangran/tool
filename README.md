@@ -1,2 +1,4 @@
-# tool
-# 日常用的小脚本
+# myself code
+
+# barcode adjust
+# read mtx for BGI generate adata
